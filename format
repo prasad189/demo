@@ -1,0 +1,93 @@
+<div class="container">
+<h2>Package Inclusions</h2>
+<ul class="package-inclusions">
+<li>Consultation and Guidance</li>
+<li>GST Registration Application Preparation</li>
+<li>Application Submission</li>
+<li>GSTIN Allocation</li>
+<li>Regular Updates</li>
+<li>Document Collection</li>
+<li>Verification Support</li>
+<li>Post-Registration Assistance</li>
+</ul>
+</div>
+<style><!--
+.container {
+      width: 100%;
+      margin: 0 auto;
+    }
+
+    .package-inclusions {
+      list-style-type: none;
+      padding: 20px;
+      background: #fff;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .package-inclusions h2 {
+      text-align: center;
+      color: #333;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 10px;
+    }
+
+    .package-inclusions li {
+      padding: 10px 0;
+      border-bottom: 1px solid #ddd;
+    }
+
+    .package-inclusions li:last-child {
+      border-bottom: none;
+    }
+
+   .content-row {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+
+        .content-col {
+            flex: 1;
+            margin: 10px;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        .content-col img {
+            width: 100px;
+            height: 100px;
+        }
+
+        .content-col h2 {
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .content-col p {
+            font-size: 16px;
+            color: #666;
+            line-height: 1.5;
+        }
+
+        @media screen and (max-width: 600px) {
+            .content-row {
+                flex-direction: column;
+            }
+        }
+--></style>
+
+<h2 id="overview">Overview</h2>
+
+<h2 id="benefits">Benefits
+
+<h2 id="registration-process">GST Registration Process</h2>
+
+<h2 id="documents-required">Documents Required for GST Registration</h2>
+
+<h2 id="faq">Frequently Asked Questions</h2>
+</h2>
